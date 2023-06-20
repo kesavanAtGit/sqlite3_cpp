@@ -1,0 +1,6 @@
+/home/kesavan/Desktop/sqlite3/build/CMakeFiles/main.dir
+/home/kesavan/Desktop/sqlite3/build/CMakeFiles/edit_cache.dir
+/home/kesavan/Desktop/sqlite3/build/CMakeFiles/rebuild_cache.dir
+/home/kesavan/Desktop/sqlite3/build/Database/CMakeFiles/Database.dir
+/home/kesavan/Desktop/sqlite3/build/Database/CMakeFiles/edit_cache.dir
+/home/kesavan/Desktop/sqlite3/build/Database/CMakeFiles/rebuild_cache.dir
